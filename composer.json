@@ -1,0 +1,19 @@
+{
+    "name": "azad/html",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaji Azad Ali",
+            "email": "kaji.azad@innoraft.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "phpmailer/phpmailer": "^7.0",
+        "phpoffice/phpword": "^1.4"
+    }
+}
